@@ -1,1 +1,10 @@
 C:\Users\Heather R\Desktop\ITCS1810_Labs\lab2vb\lab2vb\bin\Debug\lab2vb.exe.config
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\bin\Debug\lab2vb.exe.config
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\bin\Debug\lab2vb.exe
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\bin\Debug\lab2vb.pdb
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\bin\Debug\lab2vb.xml
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\obj\Debug\lab2vb.Resources.resources
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\obj\Debug\lab2vb.vbproj.GenerateResource.Cache
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\obj\Debug\lab2vb.exe
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\obj\Debug\lab2vb.xml
+C:\Users\C1010\Desktop\ITCS1810_Labs\lab2vb\lab2vb\obj\Debug\lab2vb.pdb
