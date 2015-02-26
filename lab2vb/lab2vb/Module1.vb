@@ -2,7 +2,6 @@
 
     Sub Main()
 
-
         Dim Niece As Person = New Person
         Niece.FirstName = "Claudia"
         Niece.LastName = "Reading"

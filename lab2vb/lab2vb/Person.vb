@@ -5,5 +5,6 @@
 
     Public Function FullName() As String
         Return FirstName & " " & LastName
+
     End Function
 End Class
