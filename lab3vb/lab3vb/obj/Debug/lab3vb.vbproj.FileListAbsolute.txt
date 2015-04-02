@@ -1,0 +1,10 @@
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\bin\Debug\lab3vb.exe.config
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\bin\Debug\lab3vb.exe
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\bin\Debug\lab3vb.pdb
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\bin\Debug\lab3vb.xml
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\obj\Debug\lab3vb.frmMovieNight.resources
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\obj\Debug\lab3vb.Resources.resources
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\obj\Debug\lab3vb.vbproj.GenerateResource.Cache
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\obj\Debug\lab3vb.exe
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\obj\Debug\lab3vb.xml
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vb\lab3vb\obj\Debug\lab3vb.pdb
