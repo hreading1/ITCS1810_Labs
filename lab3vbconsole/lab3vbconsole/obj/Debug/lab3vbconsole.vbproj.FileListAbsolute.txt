@@ -1,1 +1,9 @@
 C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\bin\Debug\lab3vbconsole.exe.config
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\bin\Debug\lab3vbconsole.exe
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\bin\Debug\lab3vbconsole.pdb
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\bin\Debug\lab3vbconsole.xml
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\obj\Debug\lab3vbconsole.Resources.resources
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\obj\Debug\lab3vbconsole.vbproj.GenerateResource.Cache
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\obj\Debug\lab3vbconsole.exe
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\obj\Debug\lab3vbconsole.xml
+C:\Users\Heather R\Desktop\ITCS1810_Labs\lab3vbconsole\lab3vbconsole\obj\Debug\lab3vbconsole.pdb
